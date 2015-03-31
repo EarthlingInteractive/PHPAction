@@ -1,0 +1,13 @@
+{
+	"name": "togos/action",
+	"description": "Action definition classes",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.2"
+	},
+	"autoload": {
+		"psr-0": {
+			"TOGoS_Action": "lib/"
+		}
+	}
+}
